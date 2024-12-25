@@ -1,0 +1,50 @@
+1.FilmyGyan.A subreddit for movies.Entertainment
+2.LeetCode.Leetcode discussion subreddit.Study
+3.TechTalk.A place for tech enthusiasts to discuss the latest trends.Technology
+4.BookLovers.A community for those who love reading and discussing books.Literature
+5.TravelBug.A subreddit for travel enthusiasts sharing experiences and tips.Travel
+6.Foodie.A place for food lovers to share recipes, reviews, and cooking tips.Food
+7.FitnessFan.A subreddit for fitness and health enthusiasts.Workout
+8.MusicMakers.A community for musicians to share their work and collaborate.Music
+9.ArtisticVibes.A place for artists to showcase their work and get feedback.Art
+10.ScienceNerds.A subreddit for science enthusiasts discussing discoveries and theories.Science
+11.GamingWorld.A community for gamers to discuss and share their gaming experiences.Gaming
+12.HistoryBuffs.A place for history enthusiasts to discuss historical events and figures.History
+13.NatureLovers.A subreddit for those who appreciate and want to discuss nature and wildlife.Nature
+14.DIYers.A place for do-it-yourself enthusiasts to share projects and ideas.Home Improvement
+15.ProgrammingParadise.A subreddit for coding and programming enthusiasts to collaborate and share knowledge.Programming
+16.SpaceExplorers.A community for those interested in space exploration and astronomy.Space
+17.MovieCritics.A place for movie lovers to review and discuss films.Review
+18.HealthHacks.A subreddit for sharing health tips and hacks.Health
+19.PhotographyFans.A community for photographers to share their work and tips.Photography
+20.MeditationMasters.A place for those interested in meditation and mindfulness.Mindfulness
+21.AnimeFans.A subreddit for anime lovers to discuss their favorite series and characters.Anime
+22.ComicBookFans.A place for comic book enthusiasts to share and discuss comics.Comics
+23.SustainableLiving.A community focused on sustainable living and environmentalism.Environment
+24.PetLovers.A subreddit for pet owners to share their stories and tips about caring for pets.Pets
+25.CookingTips.A place for sharing recipes and cooking techniques.Cooking
+26.TeaTime.A community for tea enthusiasts to discuss different types and flavors of tea.Tea
+27.GardeningGuru.A subreddit for gardening enthusiasts to share tips and experiences.Gardening
+28.MysteryFans.A place for those who love mystery novels and discussions.Mystery
+29.RetroGames.A community for fans of retro and classic video games.Gaming
+30.SocialIssues.A subreddit for discussing social and political issues.Social
+31.Fashionistas.A place for fashion enthusiasts to share trends and styles.Fashion
+32.BudgetTravel.A subreddit for traveling on a budget with tips and advice.Budget Travel
+33.CraftBeer.A community for craft beer lovers to discuss different brews and breweries.Beer
+34.LanguageLearners.A place for those learning new languages to get help and share experiences.Languages
+35.EcoFriendly.A subreddit focused on eco-friendly living and products.Eco
+36.CarEnthusiasts.A community for car lovers to discuss and share car-related topics.Cars
+37.Hobbyists.A place for people with various hobbies to share and discuss.Hobbies
+38.CareerAdvice.A subreddit for professional advice and career development.Career
+39.AstronomyFans.A place for enthusiasts to discuss stars, planets, and the cosmos.Astronomy
+40.Nostalgia.Nostalgic discussions about the past and retro culture.Nostalgia
+41.WritingCommunity.A subreddit for writers to share their work and get feedback.Writing
+42.RunningCommunity.A place for runners to share tips, routes, and experiences.Running
+43.MangaMania.A community for manga fans to discuss their favorite series.Manga
+44.Guitarists.A place for guitar players to share techniques and songs.Guitar
+45.HikingAdventures.A subreddit for hiking enthusiasts to discuss trails and gear.Hiking
+46.FantasyWorlds.A place for fans of fantasy books and games to discuss their favorite worlds.Fantasy
+47.BakingBuddies.A community for those who love baking and want to share recipes.Baking
+48.BudgetingTips.A subreddit for financial advice and budgeting strategies.Budgeting
+49.FilmPhotography.A place for enthusiasts of film photography to share their work and techniques.Film Photography
+50.PoetryLovers.A subreddit for those who love reading and writing poetry.Poetry
